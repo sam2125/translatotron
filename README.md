@@ -36,7 +36,7 @@ Training using a pre-trained model can lead to faster convergence
 ## Acknowledgements
 This implementation uses code from the following repos: [Tacotron 2](https://github.com/NVIDIA/tacotron2)
 
-We are thankful to the Transalotron paper authors and Tacotron 2 paper authors.
+Big thanks to the Transalotron paper authors and Tacotron 2 paper authors.
 
 [Tacotron 2]: https://drive.google.com/file/d/1c5ZTuT7J08wLUoVZ2KkUs_VdZuJ86ZqA/view?usp=sharing
 [pytorch 1.0]: https://github.com/pytorch/pytorch#installation
