@@ -10,8 +10,8 @@ Distributed and Automatic Mixed Precision support relies on NVIDIA's [Apex] and 
 1. NVIDIA GPU + CUDA cuDNN
 
 ## Setup
-1. Clone this repo: `git clone https://github.com/NVIDIA/tacotron2.git`
-2. CD into this repo: `cd tacotron2`
+1. Clone this repo: `git clone [https://github.com/NVIDIA/tacotron2.git](https://github.com/sam2125/translatotron.git)`
+2. CD into this repo: `cd translatotron`
 3. Initialize submodule: `git submodule init; git submodule update`
 4. Modify the dataset module according to the dataset of your preference. The dataset used was noisy so corresponding filtering was applied to make it fit for training. 
 5. Install [PyTorch]
